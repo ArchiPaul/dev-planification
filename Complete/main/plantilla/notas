@@ -1,0 +1,17 @@
+Concepto: Encapsulación
+
+Problema que resuelve:
+Protección de invariantes del objeto.
+
+Cómo funciona:
+Los atributos no se exponen directamente.
+
+Ejemplo:
+Cuenta bancaria que evita saldo negativo.
+
+Riesgo si no se usa:
+Otros objetos pueden modificar el estado sin control.
+
+Relaciones:
+Encapsulación protege Estado
+Encapsulación mantiene Invariantes
